@@ -1,0 +1,14 @@
+{
+  "name": "passport-veyruun-01",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Byte-preserving Republic of Veyruun passport competition entry.",
+  "type": "module",
+  "scripts": {
+    "start": "node main.ts"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "license": "MIT"
+}
